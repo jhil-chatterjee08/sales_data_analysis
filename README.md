@@ -14,7 +14,6 @@ sales_data_analysis/
 ├── src/                 # Source code
 │   ├── utils.py         # Functions for loading, cleaning, and plotting
 │   └── main.py          # Main script to run the workflow
-├── report.md            # Full detailed project report (Markdown)
 ├── report.docx          # Word document version of the report (optional)
 └── README.md            # Overview of the project (this file)
 ```
@@ -97,11 +96,6 @@ This will:
 
 ---
 
-## 📜 Report
-
-* [📄 View Full Analysis Report](report.md)
-
----
 
 ## 🛠 Tech Stack
 
